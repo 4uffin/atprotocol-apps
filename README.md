@@ -21,9 +21,11 @@ This project serves as a centralized hub for discovering the growing "Atmosphere
 ## File Structure
 - `index.html`: The primary entry point containing the directory structure and metadata.
 - `CONTRIBUTING.md`: Guidelines for adding new apps.
+- `README.md`: Explanation and overview of project.
+- `LICENSE.txt`: License for the project.
 
 ## Contributing
-To learn more, visit:
+To learn more, visit: [CONTRIBUTING.md](CONTRIBUTING.md)
 
 ## License
-Refer to
+This project is licensed under the MIT License - see the [LICENSE](LICENSE.txt) file for details.
